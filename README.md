@@ -77,5 +77,16 @@ Sharing projects and work samples with potential clients or employers.
 Providing an easy way to get in touch.
 
 OUTPUT:
+![Screenshot 2025-07-09 154126](https://github.com/user-attachments/assets/56434f82-c6d8-4390-a393-e4538a0f0d02)
 
-C:\Users\Manimegalai\Pictures\Screenshots\Screenshot 2025-07-09 154126.png
+![Screenshot 2025-07-09 154339](https://github.com/user-attachments/assets/9e8ff443-4ee6-46ea-bd01-41ba33ad6854)
+
+![Screenshot 2025-07-09 154707](https://github.com/user-attachments/assets/a007781a-760e-4f89-8a4d-e1a2a3e7f682)
+
+![Screenshot 2025-07-09 154757](https://github.com/user-attachments/assets/41eeeced-326a-4a0f-bc7c-9e9b32f4803e)
+
+![Screenshot 2025-07-09 154823](https://github.com/user-attachments/assets/4ea79565-9b59-4985-a6cf-53f5e53057bb)
+
+
+
+
