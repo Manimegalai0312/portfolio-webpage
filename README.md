@@ -1,15 +1,15 @@
-COMPANY:CODTECH IT SOLUTIONS
+COMPANY: CODTECH IT SOLUTIONS
 
-NAME:MANIMEGALAI S
+NAME: MANIMEGALAI S
 
-INTERN ID:CT04DH1317
+INTERN ID: CT04DH1317
 
-DOMAIN:FRONTEND WEB DEVEOPEMENT
-DURATION:4 WEEKS
+DOMAIN: FRONTEND WEB DEVEOPEMENT
+DURATION :4 WEEKS
 
-MENTOR:NEELA SANTHOSH KUMAR
+MENTOR: NEELA SANTHOSH KUMAR
 
-DESCRIPTION:Portfolio Website Overview
+DESCRIPTION: Portfolio Website Overview
 This project is a responsive personal portfolio website for Manimegalai, a professional web developer. The website is structured using HTML5 and styled with CSS3, aiming to showcase skills, experience, and projects in a clean and elegant format.
 
 WEBSITE SECTIONS & FEATURES:
