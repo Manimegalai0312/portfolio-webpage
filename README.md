@@ -77,3 +77,5 @@ Sharing projects and work samples with potential clients or employers.
 Providing an easy way to get in touch.
 
 OUTPUT:
+
+"C:\Users\Manimegalai\Pictures\Screenshots\Screenshot 2025-07-09 154126.png"
